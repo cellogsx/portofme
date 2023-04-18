@@ -1,4 +1,4 @@
 # portofme
 portfolio excello
-this is ny portfolio
+this is my portfolio
 copyright 2022
